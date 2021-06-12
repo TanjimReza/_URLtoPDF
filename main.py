@@ -13,7 +13,7 @@ bot = commands.Bot(command_prefix='>')
 
 #---------------------- Necessary Variables ----------------------#
 LOG_CHANNEL_ID = 853294509340622906 #Bot will print logs in this channel 
-BOT_TOKEN = "ODUyOTQ3NzAyMDA1ODkxMTAy.YMOPcw.KOcym0-UOkjbMHrJiQ1slq8bYjI"
+BOT_TOKEN = "ODUyOTQ3NzAyMDA1ODkxMTAy.YMOPcw.O4EQmILAzJdvBRio65oLAnxeL_g"
 ONLINE_MESSAGE = "Bot Online!"
 PDF_NAME = "" #Important? Check below
 #-----------------------------------------------------------------#
