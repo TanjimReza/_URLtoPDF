@@ -2,3 +2,4 @@ requests
 discord
 pdfkit
 PyPDF2
+wkhtmltopdf
